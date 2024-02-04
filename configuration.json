@@ -1,0 +1,18 @@
+{
+    "DISCOVERY_ADDRESS": "https://52.173.10.49:30110,https://52.173.10.62:30110",
+    "CONFIG_ADDRESS": "https://52.173.10.49:30100,https://52.173.10.62:30100",
+    "RDS_IP": "71.160.208.193",
+    "DATASOURCE_USERNAME": "hwbank",
+    "DATASOURCE_PASSWORD": "Huawei12#$%^",
+	"SEATA_ENABLE": "false",
+	"EBS_ENABLE": "false",
+	"ROCKETMQ_SERVER": "215.0.0.78:8200",
+	"DCS_IP": "52.173.10.10",
+	"DCS_PORT": "6379",
+	"DCS_PASSWORD": "DevSpore12#$",
+	"DCS_TYPE": "cluster",
+	"DATACENTER_AZ": "az0.dc0",
+	"DATACENTER_REGION": "roma-dev-2-arm",
+	"servicecomb_service_registry_autodiscovery": "true",
+	"servicecomb_datacenter_availableZone": "az0.dc0"
+}
